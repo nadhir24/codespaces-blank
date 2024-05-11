@@ -9,21 +9,18 @@ export const siteConfig = {
       href: "/",
     },
     {
-      label: "Docs",
-      href: "/docs",
+      label: "shop",
+      href: "/Belanja",
     },
     {
-      label: "Pricing",
-      href: "/pricing",
-    },
-    {
-      label: "Blog",
+      label: "blog",
       href: "/blog",
     },
     {
-      label: "About",
-      href: "/about",
+      label: "about",
+      href: "/Tentang-Kami",
     },
+
   ],
   navMenuItems: [
     {
