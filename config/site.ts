@@ -24,20 +24,19 @@ export const siteConfig = {
   ],
   navMenuItems: [
     {
-      label: "Profile",
-      href: "/profile",
+      label: "Home",
+      href: "/",
     },
     {
-      label: "Belanja",
+      label: "shop",
       href: "/Belanja",
     },
-
     {
-      label: "Docs",
-      href: "/docs",
+      label: "blog",
+      href: "/blog",
     },
     {
-      label: "tentang kami",
+      label: "about",
       href: "/Tentang-Kami",
     },
   ],
